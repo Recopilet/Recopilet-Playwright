@@ -8,7 +8,7 @@ export const AccountData = {
     instituteName:"Bank Of america"+currentTime,
     streetName:"Street",
     unit:"123",
-    zipCode:"12345",
+    zipCode:"12335",
     cityName:"Los agenelis",
     accountName:"Test Account"+currentTime,
     fourDigit:(Math.floor(Math.random() * (9999 - 1001 + 1) + 1001)).toString(),
